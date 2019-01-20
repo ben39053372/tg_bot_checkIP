@@ -1,7 +1,7 @@
 import telegram
 from time import sleep
 from urllib import request
-BOT_TOKEN = '656005660:AAFxEXJKW_pQPgXxvWpQPoIpaMEzNQBrKJI'
+BOT_TOKEN = 'TOKEN'
 Bot = telegram.Bot(BOT_TOKEN)
 lastMessageId = 0
 def getText(Update):
